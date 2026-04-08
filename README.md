@@ -176,7 +176,7 @@ See `POWERBI_GUIDE.md` for full dashboard setup instructions.
 
 ---
 
-## 📌 Resume Impact Summary
+## 📌 Impact Summary
 
 - Analysed **10+ years** of regional agricultural data (1997–2020)
 - Processed **50,000+ data points** across 55 crop types and 6 seasonal variables
